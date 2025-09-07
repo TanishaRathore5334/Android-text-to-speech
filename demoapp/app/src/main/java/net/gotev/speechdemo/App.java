@@ -1,7 +1,5 @@
 package net.gotev.speechdemo;
-
 import android.app.Application;
-
 import net.gotev.speech.Logger;
 
 /**
