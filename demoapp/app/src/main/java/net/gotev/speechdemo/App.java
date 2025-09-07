@@ -5,6 +5,7 @@ import net.gotev.speech.Logger;
 /**
  * @author Aleksandar Gotev
  */
+
 public class App extends Application {
     @Override
     public void onCreate() {
